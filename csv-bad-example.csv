@@ -1,0 +1,6 @@
+Table 1
+,,,,,,,,
+,name,description,price,primary_category,second_category,model_number,upc,sku
+,Product 1,Description of product 1,19.99,Electronics,Gadgets,12345,123456789012,SKU12345
+,Product 2,Description of product 2,29.99,Home,Kitchen,67890,123456789013,SKU67890
+,Product 3,Description of product 3,39.99,Sports,Outdoor,54321,123456789014,SKU54321
